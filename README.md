@@ -24,14 +24,13 @@ A Node.js-based Purchase Request (PR) Rule Engine that evaluates approval rules 
 
 ## ⚙️ Setup Instructions
 
-```bash
 1. **Clone the repository**
-git clone https://github.com/yourusername/pr-rule-engine.git
+git clone https://github.com/your-username/Purchase-Request-Engine-.git
 
-2. **Install dependencies**
+3. **Install dependencies**
 npm install
 
-3. **Start the server**
+4. **Start the server**
 node index.js
 
 
