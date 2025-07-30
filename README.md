@@ -27,7 +27,6 @@ A Node.js-based Purchase Request (PR) Rule Engine that evaluates approval rules 
 ```bash
 1. **Clone the repository**
 git clone https://github.com/yourusername/pr-rule-engine.git
-cd pr-rule-engine
 
 2. **Install dependencies**
 npm install
